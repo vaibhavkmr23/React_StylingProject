@@ -48,7 +48,6 @@ export default function AuthInputs() {
         </button>
         <button className='button' onClick={handleLogin}>Sign In</button>
       </div>
-      <p>HII People</p>
     </div>
   );
 }
